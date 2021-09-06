@@ -1,5 +1,5 @@
 # MSSJFL
-# Multiscale Spatialspectral Joint Feature Learning for Multispectral and Hyperspectral Image Fusion
+# Multiscale Spatial-spectral Joint Feature Learning for Multispectral and Hyperspectral Image Fusion
 Abstract:For RGB images, usually single image super-resolution. However, due to the large number of spectral bands and high dimensionality of the data of hyperspectral images (HSIs), it is difficult for a single image super-resolution to improve spatial resolution without spectral distortion. Therefore, it is necessary to fuse spatial feature of multispectral images (MSIs) to improve spatial resolution. In this paper, we take advantage of the end-to-end advantages of deep learning and propose multiscale spatialspectral joint feature learning (MSSJFL) for multispectral and hyperspectral images fusion. MSSJFL method utilize different scale feature learning to exact single spatial feature and spectral feature and spatial-spectral joint feature, and then restore spectral information and spatial details via feature restoration module. Experimental results demonstrat that the proposed network architecture achieves the best performance compared with recent state-of-the-art HSI and MSI fusion. The classification accuracy of the fusion result on the real dataset is also closest to ground truth.
 
 
